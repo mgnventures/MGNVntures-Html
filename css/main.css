@@ -3430,7 +3430,7 @@ display: block;
     background-attachment: fixed;
     object-fit: cover;
 }
-/*# sourceMappingURL=main.css.map */
+
 
 .form-control {
     border-radius: 2px !important;
@@ -3479,9 +3479,7 @@ form button.link-btn.dark-bg:focus, form button.link-btn.dark-bg:hover {
     color: #fff;
 }
 .dark-bg {
-    background: #606060;
-    background: linear-gradient(rgba(0, 0, 0, .91), rgba(0, 0, 0, .75)), url(../img/services-cover.jpg) 50% no-repeat;
-    background-size: cover;
+    background: #000000;
 }
 
 .contact-form label{
